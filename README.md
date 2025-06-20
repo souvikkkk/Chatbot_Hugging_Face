@@ -12,7 +12,7 @@ text generation model. The chatbot should maintain a short-term memory of
 previous exchanges using a sliding window mechanism to ensure coherent multi-turn conversation.
 
 # 📂 Project Structure
-huggingface_chatbot/
+huggingface_chatbot/      
 ├── model_loader.py        # Loads the QA model   
 ├── chat_memory.py         # Simple memory class to track dialogue  
 ├── interface.py           # CLI for chatbot interaction   
