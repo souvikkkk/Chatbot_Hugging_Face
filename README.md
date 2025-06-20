@@ -13,10 +13,10 @@ previous exchanges using a sliding window mechanism to ensure coherent multi-tur
 
 # 📂 Project Structure
 huggingface_chatbot/      
-├── model_loader.py        # Loads the QA model   
-├── chat_memory.py         # Simple memory class to track dialogue  
-├── interface.py           # CLI for chatbot interaction   
-└── README.md              # Project documentation    
+├── model_loader.py        -- Model and tokenizer loading   
+├── chat_memory.py         -- Memory buffer logic  
+├── interface.py           -- CLI loop and integration   
+└── README.md              -- Project documentation    
 
 # ⚙️ Setup Instructions    
    1. Clone the Repository    
