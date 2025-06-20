@@ -19,10 +19,10 @@ huggingface_chatbot/
 └── README.md              # Project documentation    
 
 # ⚙️ Setup Instructions    
-  # 1. Clone the Repository    
+   1. Clone the Repository    
   git clone https://github.com/yourusername/huggingface_chatbot.git    
   cd huggingface_chatbot     
-  # 2. Install Dependencies    
+   2. Install Dependencies    
   pip install transformers    
 
 # ▶️ How to Run  
